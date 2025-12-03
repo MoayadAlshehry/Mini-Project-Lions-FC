@@ -1,0 +1,1 @@
+A simple experimental website for a fictional football club named Lions FC. The project includes three main pages: Home, Register, and Contact Us. It showcases fundamental web design concepts and the creation of clean, interactive pages.
